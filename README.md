@@ -9,11 +9,14 @@ As a very basic tutorial, your files are stored in a tree of folders, or directo
 On Mac, press cmd+space, type "terminal", then press enter.
 
 In terminal, type
+
 ```cd ~/Library/Preferences/org.bluej```
+
 and press enter. cd stands for "change directory"; we are just going to a certain folder so we can edit some bluej files.
 
 Now, type
-```touch java-colors.css
-open java-colors.css
-```
+
+```touch java-colors.css```
+```open java-colors.css```
+
 This creates and opens a file called `java-colors.css`
