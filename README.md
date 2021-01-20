@@ -23,7 +23,7 @@ touch java-colors.css
 open java-colors.css
 ```
 
-This creates and opens a file called `java-colors.css`, which bluej reads off of.
+(press enter after the first line). This creates and opens a file called `java-colors.css`, which bluej reads off of.
 
 Now, go ahead and open the `java-colors-dark+.css` in this Github repository and copy and paste the contents of the file in `java-colors.css`. Press cmd+s to save.
 
