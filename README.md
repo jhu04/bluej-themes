@@ -4,7 +4,7 @@ To install a dark theme, you'll need a little bit of terminal.
 
 As a very basic tutorial, your files are stored in a tree of folders, or directories. Using terminal and commands, you can navigate through these directories.
 
-
+On Windows, see https://github.com/t-ye/bluej-dark-theme.
 
 On Mac, press cmd+space, type "terminal", then press enter.
 
